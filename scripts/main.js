@@ -1,1 +1,0 @@
-{{$json["scripts/main.js"]}}
