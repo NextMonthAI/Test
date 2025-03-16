@@ -1,0 +1,9 @@
+body { font-family: Arial; background-color: #FAF8F8; color: #333; }
+a { color: #0175C2; text-decoration: none; }
+a:hover { text-decoration: underline; }
+header { background: #0175C2; color: white; padding: 10px 20px; text-align: center; }
+nav ul { list-style-type: none; }
+nav ul li { display: inline; padding: 0 15px; }
+h1, h2 { font-family: 'Arial', sans-serif; }
+section { margin: 20px; padding: 20px; background: white; border: 1px solid #ccc; }
+footer { text-align: center; margin-top: 20px; padding: 10px 0; background: #0175C2; color: white; }
